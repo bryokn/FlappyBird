@@ -35,7 +35,7 @@ bird_jump = -10
 bird_gravity = 0.5
 
 # Load bird emoji
-bird_emoji = pygame.image.load("bird_emoji.png")
+bird_emoji = pygame.image.load("bird.png")
 bird_emoji = pygame.transform.scale(bird_emoji, (bird_width, bird_height))
 
 # Pipe properties
